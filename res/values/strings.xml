@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">second silly project</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="otherString">Good evening jelly land mamals!</string>
+    <string name="blayumButton">Blayum! Did it again!</string>
+	<string name="malaceBanana">Slightly crooked banana placed with malace on the table</string>
+</resources>
